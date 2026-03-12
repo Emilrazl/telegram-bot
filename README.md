@@ -85,5 +85,5 @@
 
 1. **Клонируйте репозиторий:**
    ```bash
-   git clone https://github.com/Emilrazl/SecondSemestr.git
+   git clone https://github.com/Emilrazl/telegram-bot.git
    cd YOUR_REPOSITORY
